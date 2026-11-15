@@ -1,3 +1,29 @@
+# goose
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+开源可扩展 AI Agent，不止代码建议，可安装、执行、编辑与测试，兼容任意 LLM。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <div align="center">
 
 # goose
